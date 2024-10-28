@@ -26,8 +26,7 @@ abels
 ● Features: 3072-dimensional embedding vector for all phenotypes and all genes. These are the features you need for the analysis.
 
 ○ zenodo_directory/data/helper_datasets/gene_embeddings.csv  
-○ zenodo_directory/data/helper_datasets/phenotype_embeddings.c
-sv
+○ zenodo_directory/data/helper_datasets/phenotype_embeddings.csv
 ## Installation
 
 To run this project
